@@ -1,9 +1,8 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I am currently building a meaningful and fun project that won a prize at the hackathon.
-- 🌱 &nbsp;I’m currently learning Solidity(Blockchain), React.JS(Frontend), (Backend)
-- ❔ &nbsp;I'm currently interested in use cases for blockchain related to real-estate, and NFTs, Auditing, DeFi, Tokenomics : Creating a more accessible, efficient, and transparent financial system.
+- 🔭 &nbsp;I am building a meaningful and fun project that won a prize at the hackathon.
+- ❔ &nbsp;I am interested in use cases for blockchain related to real-estate, and NFTs, Auditing, DeFi, Tokenomics : Creating a more accessible, efficient, and transparent financial system.
 
 
 
