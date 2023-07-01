@@ -4,7 +4,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I am currently building a meaningful and fun project that won a prize at the hackathon.
 - 🌱 &nbsp;I’m currently learning Solidity(Blockchain), React.JS(Frontend), (Backend)
 - ❔ &nbsp;I'm currently interested in use cases for blockchain related to real-estate, and NFTs, Auditing, DeFi, Tokenomics : Creating a more accessible, efficient, and transparent financial system.
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python/Java/Solidity or React
 
 
 
@@ -36,7 +35,6 @@ const anmol = {
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 ---
