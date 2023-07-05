@@ -27,7 +27,7 @@ const d0lbangi = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], // Ongoing
     currentFocus: "Job Hunting",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
     challenge: "I am doing the #365DaysOfCode challenge focused on react and typescript for dApp, and skilling up Backend"
 };
 
