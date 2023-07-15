@@ -9,11 +9,11 @@ This is the place where I opensource stuff and break things :rofl:
 ```javascript
 const d0lbangi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Solidity"],
-    askMeAbout: ["web dev", "tech", "RF chip Engineering"],
+    code: ["Javascript", "Typescript", "Python", "Java", "Solidity"],
+    askMeAbout: ["web dev", "tech", "RF Test Engineering"],
     technologies: {  
         frontEnd: {
-            js: ["React"],
+            js: ["ReactJS, NextJS"],
         },
         backEnd: {
             js: ["Node", "Express"], // Soon
@@ -23,7 +23,7 @@ const d0lbangi = {
         },
         devOps: ["AWS"], // Soon
         databases: ["mongo", "MySql"], // Soon
-        misc: ["Firebase", "selenium"] // Soon
+        misc: ["firebase", "superbase", "selenium"] // Soon
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], // Ongoing
     currentFocus: "Job Hunting",
