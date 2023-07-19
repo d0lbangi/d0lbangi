@@ -19,16 +19,16 @@ const d0lbangi = {
             js: ["Node", "Express"], // Soon
         },
         Blockchain: {
-            js: ["ether", "web3", "mocha""]
+            js: ["ether", "web3", "mocha"]
         },
         devOps: ["AWS"], // Soon
         databases: ["mongo", "MySql"], // Soon
         misc: ["firebase", "superbase", "selenium"] // Soon
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], // Ongoing
-    currentFocus: "Job Hunting",
+    currentFocus: "Working in Startup as only Developer",
     funFact: "There are two ways to write error-free programs; only the third one works",
-    challenge: "I am doing the #365DaysOfCode challenge focused on react and typescript for dApp, and skilling up Backend"
+    challenge: "I am a new developer who is currently working as a one-person developer at a startup using full-stack and blockchain technology."
 };
 
 
