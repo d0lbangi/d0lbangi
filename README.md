@@ -16,7 +16,7 @@ const d0lbangi = {
             js: ["ReactJS, NextJS"],
         },
         backEnd: {
-            js: ["Node", "Express"], // Soon
+            js: ["Spring", "Node", "nest", "Express"], // Soon
         },
         Blockchain: {
             js: ["ether", "web3", "mocha"]
