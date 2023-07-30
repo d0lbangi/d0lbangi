@@ -22,7 +22,7 @@ const d0lbangi = {
             js: ["ether", "web3", "mocha"]
         },
         devOps: ["AWS"], // Soon
-        databases: ["mongo", "MySql"], // Soon
+        databases: ["mongo", "Maria"], // Soon
         misc: ["firebase", "superbase", "selenium"] // Soon
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], // Ongoing
