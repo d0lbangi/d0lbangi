@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I am building a meaningful and fun project that won a prize at the hackathon.
+- 🔭 &nbsp;I am building a meaningful and fun projects that won a prize at the hackathon.
 - ❔ &nbsp;I am interested in use cases for blockchain related to real-estate, and NFTs, Auditing, DeFi, Tokenomics : Creating a more accessible, efficient, and transparent financial system.
 
 
@@ -21,9 +21,10 @@ const d0lbangi = {
         Blockchain: {
             js: ["ether", "web3", "mocha"]
         },
-        devOps: ["AWS"], // Soon
-        databases: ["mongo", "Maria"], // Soon
-        misc: ["firebase", "superbase", "selenium"] // Soon
+        devOps: ["AWS"],
+        databases: ["mongo", "Maria"],
+        misc: ["firebase", "superbase", "selenium"], // Soon
+        tools : ["DBeaver", "Putty", "Intellij", "eclipse", ganache] 
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], // Ongoing
     currentFocus: "Working in Startup as only Developer",
