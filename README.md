@@ -8,7 +8,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 ```javascript
 const d0lbangi = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "Solidity"],
     askMeAbout: ["web dev", "tech", "RF Test Engineering"],
     technologies: {  
