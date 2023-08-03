@@ -12,7 +12,7 @@ const d0lbangi = {
     askMeAbout: ["web dev", "tech", "RF Test Engineering"],
     technologies: {  
         frontEnd: {
-            js: ["ReactJS, NextJS"],
+            js: ["ReactJS, NextJS", "nestJS"],
         },
         backEnd: {
             js: ["Spring", "Node", "nest", "Express"], // Soon
