@@ -21,7 +21,7 @@ const d0lbangi = {
             js: ["ether", "web3", "mocha"]
         },
         devOps: ["AWS"],
-        databases: ["mongo", "Maria"],
+        databases: ["mongo", "Maria", "GraphQL"],
         misc: ["firebase", "superbase", "selenium"], // Soon
         tools : ["DBeaver", "Putty", "Intellij", "eclipse", ganache] 
     },
